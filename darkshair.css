@@ -458,7 +458,7 @@ html:before{
      border: none;
 }
  .txt-info, .your-season-record, .your-career-record, .players-in-ranking-info, .season-reward-header, .season-winners-header, .matchmaking-progress-stage .points-side .ratio , .tokens-amount-1{
-     color: gold;
+     color: white;
 }
  .MM-rank-header {
      width: 62px;
