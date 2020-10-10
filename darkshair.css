@@ -756,13 +756,13 @@ html:before{
 }
 /* CSS ZMIANA GRAFIK(POZOSTAŁE) */
  #recipes {
-     background-image: url(https://i.imgur.com/Jj9Y8LK.png);
+     background-image: url(https://i.imgur.com/5l6T3lX.png);
 }
  #addonspanel{
-     background-image: url(https://i.imgur.com/KJyQR1Q.png);
+     background-image: url(https://i.imgur.com/E8oevaw.png);
 }
  DIV#pvpmode, #pvpmode{
-     background-image: url(https://i.imgur.com/ZW0zLys.png);
+     background-image: url(https://i.imgur.com/5D4tV3E.png);
      top:518px;
      left:475px;
      z-index:301;
@@ -771,33 +771,33 @@ html:before{
      background-position: 0px -57px;
 }
  #clanmenu{
-     background-image: url(https://i.imgur.com/dllfBVl.png);
+     background-image: url(https://i.imgur.com/dStIWdi.png);
 }
  #mappanel{
-     background-image: url(https://i.imgur.com/q7ajMux.png);
+     background-image: url(https://i.imgur.com/EPm8d3g.png);
 }
  #friends{
-     background-image: url(https://i.imgur.com/vTQCjeq.png);
+     background-image: url(https://i.imgur.com/6oKTHcG.png);
 }
  #config{
-     background-image: url(https://i.imgur.com/SG874rB.png) !important;
+     background-image: url(https://i.imgur.com/y6QKaHG.png) !important;
      background-repeat: repeat;
 }
  #config center:last-child {
-     background-image: url(https://i.imgur.com/WUukqfv.png) !important;
+     background-image: url(https://i.imgur.com/MBBBkoS.png) !important;
      background-position: bottom;
 }
  #panel{
-     background-image: url(https://i.imgur.com/lNXs1Vf.png);
+     background-image: url(https://i.imgur.com/ZNQlN6G.png);
 }
  .conf-title{
-     background-image: url(https://i.imgur.com/u8L7Uy5.png) !important;
+     background-image: url(https://i.imgur.com/FHy9Ik5.png) !important;
 }
  #skills, #skills_title{
-     background-image: url(https://i.imgur.com/qq6P47n.png);
+     background-image: url(https://i.imgur.com/ERMuYXg.png);
 }
  .skills_tab_header{
-     background-image: url(https://i.imgur.com/Kc8Bhwz.png);
+     background-image: url(https://i.imgur.com/uBmGxpH.png);
 }
  #inpchat{
      background-image:url(https://i.imgur.com/yjxN9IN.png);
@@ -806,34 +806,34 @@ html:before{
      font-size:12px;
 }
  .questlist p{
-     background-image: url(https://i.imgur.com/uTdTZ4E.png);
+     background-image: url(https://i.imgur.com/FYMVyL4.png);
      font: 15px "Lato", sans-serif;
      font-weight: 700;
 }
  #clanbox .members TH{
-     background-image: url(https://i.imgur.com/F2QFLni.png);
+     background-image: url(https://i.imgur.com/0jQN774.png);
 }
  #bottombar{
-     background-image: url(https://i.imgur.com/cTsHNvd.png);
+     background-image: url(https://i.imgur.com/frOuUhU.png);
 }
  #dlgwin .w2{
-     background-image: url(https://i.imgur.com/CDe0cgx.png) !important;
+     background-image: url(https://i.imgur.com/rgiGHpz.png) !important;
 }
  .w2{
      color: #5B7019;
-     background-image: url(https://i.imgur.com/CDe0cgx.png) !important;
+     background-image: url(https://i.imgur.com/xh3c6US.png) !important;
 }
  #alert, #dlgwin, #staminashop, .MM-alert{
-     background-image: url(https://i.imgur.com/vPJ0DhO.png) !important;
+     background-image: url(https://i.imgur.com/0UW7ZhA.png) !important;
 }
  #alert .a1, #alert .a3, #alert button, #dlgwin .w1, #staminashop .a1, #staminashop .a3{
-     background-image: url(https://i.imgur.com/dSLJ99k.png) !important;
+     background-image: url(https://i.imgur.com/RjXdgqH.png) !important;
 }
  #chat, #chattabs, #chattabs s{
-     background-image:url(https://i.imgur.com/DQ41QuO.png);
+     background-image:url(https://i.imgur.com/ZtSN24n.png);
 }
  #chat.left, #chattabs.left, #chat.left #chattabs s{
-     background-image: url(https://i.imgur.com/FNySper.png);
+     background-image: url(https://i.imgur.com/MazA1jl.png);
 }
  #cfg_options DIV{
      color: #5B7019;
@@ -842,29 +842,29 @@ html:before{
 .my-checkbox, .my-checkbox.active{
      color: #5B7019;
      font: 13px "Lato", sans-serif;
-     background-image: url(https://i.imgur.com/rCP0uw0.png);
+     background-image: url(https://i.imgur.com/z1YcahF.png);
 }
  #pre-premium-panel .close-pre-premium, #recipes .close-but, #chests-window .close-chests-window, #loot-preview .close-but{
-     background-image: url(https://i.imgur.com/7YJihOA.png);
+     background-image: url(https://i.imgur.com/EOuQSXv.png);
 }
  .closebut, .close-but{
-     background-image: url(https://i.imgur.com/7YJihOA.png);
+     background-image: url(https://i.imgur.com/65o3xFF.png);
      margin: 4px;
 }
  #config .save{
-     background-image: url(https://i.imgur.com/dpAqyun.png);
+     background-image: url(https://i.imgur.com/TZ9AtQz.png);
 }
  #config .cancel{
-     background-image: url(https://i.imgur.com/kkNon2n.png);
+     background-image: url(https://i.imgur.com/gkGzlT2.png);
 }
  #clanbox, #inmap, #inmap2wrapper, #addons{
-     background-image: url(https://i.imgur.com/TYII1Z4.png);
+     background-image: url(https://i.imgur.com/EE3Hxmc.png);
 }
  #lagmeter{
-     background-image:url(https://i.imgur.com/4b7fsyh.png);
+     background-image:url(https://i.imgur.com/8v4D7KK.png);
 }
  .skillbox{
-     background-image:url(https://i.imgur.com/BXiyUYM.png);
+     background-image:url(https://i.imgur.com/oePXIir.png);
 }
 /* CSS ZMIANY PO?O?ENIA, STYLI ETC. */
  .q_kill{
@@ -880,7 +880,7 @@ html:before{
      top:9px;
 }
  #exp2.noexp{
-     background-image: url(https://i.imgur.com/IbBwTI3.png) !important;
+     background-image: url(https://i.imgur.com/U9hqV5g.png) !important;
 }
  #exp1, #life1{
      font-size: 10px;
@@ -897,7 +897,7 @@ html:before{
      border-top-left-radius: 100%;
 }
  #exp2{
-     background-image:url(https://i.imgur.com/KMrHjMn.png) !important;
+     background-image:url(https://i.imgur.com/MYPC5Df.png) !important;
 }
  #life1,#life2{
      top:91px;
@@ -940,7 +940,7 @@ html:before{
  #skillSwitch{
      top:112px;
      left:92px;
-     background-image: url(https://i.imgur.com/Uiy40rw.png) !important;
+     background-image: url(https://i.imgur.com/erqGFBN.png) !important;
 }
  #nick{
      color: white;
@@ -1023,7 +1023,7 @@ html:before{
      cursor: url(https://i.imgur.com/ziuWzSg.png), auto;
 }
 .shairVersions div.active, .shairVersions div, .bal_cancel, #myfrscrollbar, #myenscrollbar, .otchlannew, .dodatkionpub, .dodatkion, .tworcy-icon, #loot-preview .close-but, .MM-queue-button, .uninstall-icon, .checkbox-gd, .header-wrapper .close-button, .header .close-button, #addons .description *, .menu_element, .bal_yes, .bal_no, .MM-button *, .close-chests-window, .skillbox_icon, .skillbox_icon_holder, .skillbox, #a_ok.bal_ok, #chatscrollbar, #pre-premium-panel .tiles-wrapper .pre-premium-panel-tile, .close-pre-premium, .graph.sl-cl, .header-txt, .graph,shop-cl, .graph.chest-cl, .graph.for-you-cl, .MM-stat-button, .MM-fight-button, .MM-rank-button, .MM-stat-header, .MM-fight-header, .MM-rank-header, .closebut, .ustawienia, #chattxt .chnick, #chattxt U, #chat, #chattabs, #chattabs s, #chat.left, #chattabs.left, .rightStatBut, .MM-battleset-switch-button, #cfg_options > div, [onclick], [href], [onclick] > *{
-     cursor: url(https://i.imgur.com/xZ0AKJk.png), auto !important;
+     cursor: url(https://i.imgur.com/zr6Nk8Q.png), auto !important;
 }
  .ustawienia{
      position:absolute;
@@ -1051,19 +1051,19 @@ html:before{
      background:url(https://i.imgur.com/QwhMmKF.png);
 }
  .npc.cursor-npc{
-     cursor: url(https://i.imgur.com/l1Iq1Uq.png), auto !important;
+     cursor: url(https://i.imgur.com/ZOb1hlU.png), auto !important;
 }
  .npc.cursor-attack{
-     cursor: url(https://i.imgur.com/xF0AbnU.png), auto !important;
+     cursor: url(https://i.imgur.com/rHVp7Vx.png), auto !important;
 }
  .troop[ctip="t_troop2"]{
-     cursor: url(https://i.imgur.com/xF0AbnU.png), auto !important;
+     cursor: url(https://i.imgur.com/QB9yzfX.png), auto !important;
 }
  #b_pvp{
      top: 205px;
      left: 236px;
      height: 22px;
-     background: url(https://i.imgur.com/8nEQdHt.png);
+     background: url(https://i.imgur.com/yrKOzkQ.png);
      background-position-y: 0px !important;
      background-position-x: 22px !important;
 }
@@ -1098,4 +1098,27 @@ html:before{
     background-image: url(http://s6.ifotos.pl/img/kalendarz_qwraheh.png);
     border-radius: 0px 0px 0px 0px;
     box-shadow: 0px 0px 0px 0px #34a333;	
+}
+#right-icons a[data-icon] {
+    filter: grayscale(0.8) contrast(110%);
+}
+
+.shair-item-slot {
+    width: 33px;
+    height: 33px;
+    display: inline-block;
+    margin: 7px;
+    position: relative;
+    vertical-align: top;
+    background: #33333385;
+    transition: box-shadow 250ms;
+    border-radius: 0 8px 0 8px;
+}
+
+#right-icons {
+   border: 1px solid #c75108;
+}
+
+#corners img {
+    filter: hue-rotate(315deg) brightness(150%);
 }
