@@ -866,6 +866,10 @@ html:before{
  .skillbox{
      background-image:url(https://i.imgur.com/oePXIir.png);
 }
+ #b_news{
+     backgroung-image:url(https://i.imgur.com/a4NxUTL.gif);
+}
+
 /* CSS ZMIANY PO?O?ENIA, STYLI ETC. */
  .q_kill{
      font: 13px "Lato", sans-serif;
