@@ -704,7 +704,7 @@ html:before{
  DIV#b_news{
      left:234px;
      top:5px;
-     background-image:url(https://i.imgur.com/a4NxUTL.gif) !important;
+     background-image:url(https://i.imgur.com/a4NxUTL.gif);
 }
  DIV#b_addons{
      left:237px;
