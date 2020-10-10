@@ -606,7 +606,7 @@ html:before{
      width:180px;
      height:512px;
      background: #000000e0;
-     background: linear-gradient(to right, #000000e0, #182111cf);
+     background: linear-gradient(to right, #000000e0, #454545);
      transition: transform 700ms ease-in-out;
      box-shadow: -3px 0px 5px 1px rgba(0, 0, 0, 0.6);
 }
