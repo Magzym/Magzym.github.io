@@ -704,6 +704,7 @@ html:before{
  DIV#b_news{
      left:234px;
      top:5px;
+     background-image:url(https://i.imgur.com/a4NxUTL.gif);
 }
  DIV#b_addons{
      left:237px;
@@ -865,9 +866,6 @@ html:before{
 }
  .skillbox{
      background-image:url(https://i.imgur.com/oePXIir.png);
-}
- #b_news{
-     backgroung-image:url(https://i.imgur.com/a4NxUTL.gif);
 }
 
 /* CSS ZMIANY PO?O?ENIA, STYLI ETC. */
