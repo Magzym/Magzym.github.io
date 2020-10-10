@@ -127,15 +127,15 @@
     background-position: -443px -229px;
 }
 .SI-button .label{
-    background:url(https://i.imgur.com/IL6scQa.png);
+    background:url(https://i.imgur.com/2qstFPx.png);
     background-position: -463px -229px;
 }
 .SI-button .right{
-    background:url(https://i.imgur.com/IL6scQa.png);
+    background:url(https://i.imgur.com/2qstFPx.png);
     background-position: -622px -229px;	
 }
 #for-you-plug{
-    background:url(https://i.imgur.com/IL6scQa.png) -0px -942px;
+    background:url(https://i.imgur.com/2qstFPx.png) -0px -942px;
 }
 .shair-item-slot small{
     opacity: 0.5;
@@ -149,7 +149,7 @@
 html:before{
     content:"";
     display: none;
-    background-image:url(https://i.imgur.com/uE9ew1x.jpg);
+    background-image:url(https://i.imgur.com/dMUAsJ8.jpg);
     background-position:center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -173,10 +173,10 @@ html:before{
      background-position-y: -23px;
 }
  .uninstall-icon{
-     background: url(https://i.imgur.com/nkJJv6P.png);
+     background: url(https://i.imgur.com/E98mNV6.png);
 }
  .tworcy-icon{
-     background:url(https://i.imgur.com/XI42bol.png);
+     background:url(https://i.imgur.com/ReWB93w.png);
 }
  .progressInfo, #_t1{
      font-family: Lato;
@@ -263,7 +263,7 @@ html:before{
      color: #d84747;
 }
  #newlvl{
-     background-image: url(https://i.imgur.com/TCsBGgy.gif);
+     background-image: url(https://i.imgur.com/vXr5hzi.gif);
      box-shadow: 0 0 5px 3px black;
 }
  #autobattleButton, #surrenderBattleButton{
@@ -287,43 +287,43 @@ html:before{
      text-shadow: 0px 0px 8px #006400, 0px 0px 8px #006400, 0px 0px 8px #006400;
 }
  #pk_list {
-     background-image: url(https://i.imgur.com/dkB4r9A.png);
+     background-image: url(https://i.imgur.com/OEbSP4K.png);
      font: 12px "Lato", sans-serif;
      color: gold;
 }
  #shop.outfit {
-     background-image: url(https://i.imgur.com/oWAtRut.png);
+     background-image: url(https://i.imgur.com/4BhEw7M.png);
 }
  #premiumshop .buymore_ps, #premiumshop .closebutton_ps, #premiumshop, #premiumshop .premiumItem, #premiumshop .item_bg, #premiumshop .promocode_button{
-     background-image: url(https://i.imgur.com/gzM7IJp.png);
+     background-image: url(https://i.imgur.com/Qk8ZekC.png);
 }
  #alert div.mAlertInputContainer input[name="mAlertInput"], #alert div.mAlertInputContainer .bRight, #alert div.mAlertInputContainer .bLeft{
-     background-image: url(https://i.imgur.com/bW9pRiu.png);
+     background-image: url(https://i.imgur.com/mLauUWo.png);
      color: #728c20;
 }
  .ab5{
-     background-image: url(https://i.imgur.com/15v5HYt.png);
+     background-image: url(https://i.imgur.com/irynzKc.png);
 }
  .ab1{
-     background-image: url(https://i.imgur.com/HuxtGJd.png);
+     background-image: url(https://i.imgur.com/gPhGlxS.png);
 }
  #battletimer{
      font: 11px "Lato", sans-serif;
      color: gold;
 }
  #battlepanelback, #battlehelp, #battleclose, #battle .border-b{
-     background-image: url(https://i.imgur.com/6VMQsOm.png) !important;
+     background-image: url(https://i.imgur.com/DynJbxY.png) !important;
      background-color: transparent;
 }
  #tradebg, #trade BUTTON{
-     background-image: url(https://i.imgur.com/vN6Kldh.png);
+     background-image: url(https://i.imgur.com/xwgVpEY.png);
      background-color: transparent;
 }
 #loots {
     border-image: url(https://i.imgur.com/lbOPx2C.png) 41 32 17 49 fill round;
 }
  #loots_l, #loots_r, #loots .loot, #loots B.yes, #loots B.no, #loots_counter, #loots_button, #loots B.need{
-     background-image: url(https://i.imgur.com/VVwSCfG.png);
+     background-image: url(https://i.imgur.com/D7E4OgI.png);
      background-color: transparent;
 }
  #loot-preview{
