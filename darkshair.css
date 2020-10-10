@@ -399,13 +399,13 @@ html:before{
      font: 12px "Lato", sans-serif;
 }
  #auctions{
-     background-image: url(https://i.imgur.com/dkB4r9A.png);
+     background-image: url(https://i.imgur.com/Vsiy0OL.png);
 }
  #auctions button, #ahtitle, #ahselect, #ah_mylist H5, #ahselect B#b_myah, #auctions .itemcont, #auctions #ah_filter BUTTON{
-     background-image: url(https://i.imgur.com/TUtJxrZ.png) !important;
+     background-image: url(https://i.imgur.com/VQncqu5.png) !important;
 }
  #loot-preview .close-but:hover{
-     background-image: url(https://i.imgur.com/7YJihOA.png);
+     background-image: url(https://i.imgur.com/zDf52y4.png);
 }
  #depo-sections .depoUpgrade{
      background-color: #070;
@@ -418,10 +418,10 @@ html:before{
      color: gold;
 }
  #depo BUTTON{
-     background-image: url(https://i.imgur.com/tuggUfj.png);
+     background-image: url(https://i.imgur.com/bhskirz.png);
 }
  #depo, #depo-title{
-     background-image: url(https://i.imgur.com/EyZHDRo.png);
+     background-image: url(https://i.imgur.com/LhkDLj9.png);
 }
  #strength-increase, #dexternity-increase, #intelect-increase{
      color: #5b7019;
@@ -432,7 +432,7 @@ html:before{
      font: 13px "Lato", sans-serif;
 }
  #abilitypoints{
-     background-image: url(https://i.imgur.com/HSXHlr1.png);
+     background-image: url(https://i.imgur.com/ztABJh6.png);
 }
  #matchmaking-summary .header-text{
      color: #5b7019;
@@ -488,28 +488,28 @@ html:before{
      color: gold;
 }
  .MM-dialog-header{
-     background-image: url(https://i.imgur.com/3P77x5Z.png);
+     background-image: url(https://i.imgur.com/IMdI8sY.png);
 }
  .MM-dialog-header-txt, .MM-big-button-header{
-     background-image: url(https://i.imgur.com/IL6scQa.png);
+     background-image: url(https://i.imgur.com/2qstFPx.png);
 }
  .MM-dialog{
-     -moz-border-image: url(https://i.imgur.com/xU5YN2Z.png) 51 64 24 57 repeat;
-     -webkit-border-image: url(https://i.imgur.com/xU5YN2Z.png) 51 64 24 57 repeat;
-     -o-border-image: url(https://i.imgur.com/xU5YN2Z.png) 51 64 24 57 repeat;
-     border-image: url(https://i.imgur.com/xU5YN2Z.png) 51 64 24 57 fill repeat;
+     -moz-border-image: url(https://i.imgur.com/zvT29ZO.png) 51 64 24 57 repeat;
+     -webkit-border-image: url(https://i.imgur.com/zvT29ZO.png) 51 64 24 57 repeat;
+     -o-border-image: url(https://i.imgur.com/zvT29ZO.png) 51 64 24 57 repeat;
+     border-image: url(https://i.imgur.com/zvT29ZO.png) 51 64 24 57 fill repeat;
 }
  #gold_shop_banner, #sl_shop_banner{
-     background-image: url(https://i.imgur.com/Da2PFeI.png);
+     background-image: url(https://i.imgur.com/DYIBpOk.png);
 }
  #shop{
-     background-image: url(https://i.imgur.com/KQLstzM.png);
+     background-image: url(https://i.imgur.com/r2Zyj8f.png);
 }
  #dialog{
-     background-image: url(https://i.imgur.com/dkB4r9A.png);
+     background-image: url(https://i.imgur.com/AZoHxsk.png);
 }
  #party{
-     background-image: url(https://i.imgur.com/2nVH6o1.png);
+     background-image: url(https://i.imgur.com/U1k6UoX.png);
 }
  .party_member, #party B{
      font: 12px "Lato", sans-serif;
@@ -531,16 +531,16 @@ html:before{
 }
  DIV.frparty, .chatfr, .delfr, #enadd, #fradd, #frsort, .delen, .frup, .frdn{
      background-color: transparent;
-     background-image: url(https://i.imgur.com/GM5S6oQ.png);
+     background-image: url(https://i.imgur.com/9x1JNF7.png);
 }
  #match-details-wnd{
-     background-image: url(https://i.imgur.com/t4lqgbr.png);
+     background-image: url(https://i.imgur.com/DyA3522.png);
 }
  .MM-big-button.MM-stat-button, .MM-big-button.MM-fight-button, .MM-big-button.MM-rank-button, .MM-queue-button, .MM-big-button MM-eq-button, .MM-eq-button, .MM-eq-button.selected{
-     background-image: url(https://i.imgur.com/IL6scQa.png);
+     background-image: url(https://i.imgur.com/2qstFPx.png);
 }
  #pre-premium-panel, #chests-window, #matchmaking-summary{
-     background-image: url(https://i.imgur.com/IL6scQa.png);
+     background-image: url(https://i.imgur.com/2qstFPx.png);
 }
  .extraStat-group-title{
      font: 14px "Lato", sans-serif;
@@ -591,7 +591,7 @@ html:before{
      line-height: 14px;
 }
  .rightStatBut{
-     background-image: url(https://i.imgur.com/1tRGL07.png);
+     background-image: url(https://i.imgur.com/MZ1Gfuy.png);
      position:absolute;
      left: 144px;
      top: 177px;
@@ -638,7 +638,7 @@ html:before{
      width: 8px;
      height: 8px;
      border-radius: 100%;
-     background:url(https://i.imgur.com/fdpSxBM.png);
+     background:url(https://i.imgur.com/DpB1RUl.png);
      z-index: 400;
      -webkit-transition: all 1000ms ease-in-out;
      -moz-transition: all 1000ms ease-in-out;
@@ -699,7 +699,7 @@ html:before{
      top:205px;
 }
  #buttons DIV{
-     background-image:url(https://i.imgur.com/JghfWsv.png) !important;
+     background-image:url(https://i.imgur.com/TTv9qDf.png) !important;
 }
  DIV#b_news{
      left:234px;
@@ -708,39 +708,39 @@ html:before{
  DIV#b_addons{
      left:237px;
      top:230px;
-     background-image:url(https://i.imgur.com/JghfWsv.png);
+     background-image:url(https://i.imgur.com/AFvHAzq.png);
 }
  DIV#bchat{
-     background-image:url(https://i.imgur.com/JghfWsv.png);
+     background-image:url(https://i.imgur.com/AFvHAzq.png);
      left:2px;
      top:520px;
 }
  #premiumbut{
      left:541px;
      top:515px;
-     background-image:url(https://i.imgur.com/LGOl9re.png);
+     background-image:url(https://i.imgur.com/VcrGnfl.png);
      background-position: 0 0!important;
 }
  #logoutbut{
      left:693px;
      top:515px;
-     background-image:url(https://i.imgur.com/Pz909Ay.png);
+     background-image:url(https://i.imgur.com/zEY1Gie.png);
      background-position: 0 0!important;
 }
  .MM-battleset-switch{
      top:90px;
 }
  .MM-battleset-switch-button {
-     background-image:url(https://i.imgur.com/rxdnktk.png);
+     background-image:url(https://i.imgur.com/d6hYWBb.png);
 }
  .a1{
-     background-image: url(https://i.imgur.com/ynm0Ogr.png) !important;
+     background-image: url(https://i.imgur.com/eiHMyLp.png) !important;
 }
  .a3 {
-     background-image: url(https://i.imgur.com/ynm0Ogr.png) !important;
+     background-image: url(https://i.imgur.com/eiHMyLp.png) !important;
 }
  .a3 *{
-     background-image: url(https://i.imgur.com/ynm0Ogr.png) !important;
+     background-image: url(https://i.imgur.com/eiHMyLp.png) !important;
 }
  #MM-in-queue-icon {
      top: -2px;
