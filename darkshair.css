@@ -360,13 +360,13 @@ html:before{
  #mailmsg, #inbox INPUT, .mailitem{
      background-color: #10141C;
      font: 12px "Lato", sans-serif;
-     color: #5B7019;
-     border: 1px solid #383838;
+     color: #737373;
+     border: 1px solid #757575;
      background: #000000;
 }
  #inbox, #inbox .onemail{
      background-image: url(https://i.imgur.com/TvRaeOE.png) !important;
-     color: #3b3b3b;
+     color: #757575;
 }
 #clanbox .clan-skills-content .scroll-wrapper .scroll-pane .one-clan-skill{
      background: rgba(91, 84, 84, 0.31);
