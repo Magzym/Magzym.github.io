@@ -8,7 +8,7 @@
      cursor: url(https://i.imgur.com/zMVEQi9.png), auto !important;
 }
  ::-webkit-scrollbar-thumb{
-     background-color: #5b7019;
+     background-color: #292929;
      border: 1px solid black;
      box-shadow: inset 0 0 6px 3px black; 
 }
@@ -41,7 +41,7 @@
      background-image: url(https://i.imgur.com/6lbFv3f.png);
  }
 .questlist p{
-     color: #218421;
+     color: #7d7d7d;
 }
 #shop_recover_items, #create_new_clan, #create_new_clan:hover{
     background-image: url(https://i.imgur.com/Z7d0UAt.png);
@@ -190,8 +190,8 @@ html:before{
 }
  #tip, #tip.t_item, #tip.t_npc, #tip.t_other{
         background: #000000c4;
-	border: 1px solid #597018;
-	border-color: #597018;
+	border: 1px solid #000000;
+	border-color: #000000;
 	font: 11px Lato, sans-serif;
         border-radius: 10px;
 	box-shadow: 0 0 30px black;
@@ -205,7 +205,7 @@ html:before{
      height: 538px;
      right: -37px;
      background: #000000ad;
-     border: 1px solid #4a541a;
+     border: 1px solid #424242;
      border-left: none;
      border-top-right-radius: 1em;
      border-bottom-right-radius: 1em;
@@ -268,11 +268,11 @@ html:before{
 }
  #autobattleButton, #surrenderBattleButton{
      background: #230a04;
-     color: #c52213;
+     color: #450600;
      border: 1px outset red;
 }
  #recipes .choose-item-type, #recipes .choose-prof {
-     color: #5B7019;
+     color: #525252;
 }
  #hmenu{
      border: 4px double black;
@@ -284,7 +284,7 @@ html:before{
      background: #151617d6;
      border-bottom: 1px double black;
      color: white;
-     text-shadow: 0px 0px 8px #006400, 0px 0px 8px #006400, 0px 0px 8px #006400;
+     text-shadow: 0px 0px 8px #474747, 0px 0px 8px #474747, 0px 0px 8px #474747;
 }
  #pk_list {
      background-image: url(https://i.imgur.com/OEbSP4K.png);
@@ -299,7 +299,7 @@ html:before{
 }
  #alert div.mAlertInputContainer input[name="mAlertInput"], #alert div.mAlertInputContainer .bRight, #alert div.mAlertInputContainer .bLeft{
      background-image: url(https://i.imgur.com/mLauUWo.png);
-     color: #728c20;
+     color: #404040;
 }
  .ab5{
      background-image: url(https://i.imgur.com/irynzKc.png);
@@ -340,7 +340,7 @@ html:before{
      background-color: transparent;
 }
  #newmail TABLE TD{
-     color: #5B7019;
+     color: #1c1c1c;
 }
  #inbox .mhead, hv, #inbox a, #inbox .mailnick.special{
      color: #CC9900;
@@ -349,7 +349,7 @@ html:before{
      display: none;
 }
  #inbox .onemail{
-     border-top: 3px double #5b7019;
+     border-top: 3px double #616161;
 }
  #shop_close, #shop_accept, #match-details-wnd .close-match-details-wrapper .close-match-details{
      background-image: url(https://i.imgur.com/5SeoEip.png);
@@ -361,12 +361,12 @@ html:before{
      background-color: #10141C;
      font: 12px "Lato", sans-serif;
      color: #5B7019;
-     border: 1px solid #5b7019;
-     background: #10141C;
+     border: 1px solid #383838;
+     background: #000000;
 }
  #inbox, #inbox .onemail{
      background-image: url(https://i.imgur.com/TvRaeOE.png) !important;
-     color: #5B7019;
+     color: #3b3b3b;
 }
 #clanbox .clan-skills-content .scroll-wrapper .scroll-pane .one-clan-skill{
      background: rgba(91, 84, 84, 0.31);
@@ -375,7 +375,7 @@ html:before{
      background-image: url(https://i.imgur.com/JMR9Waa.png);
 }
  #auctions .even TD{
-     background-color: #10141C;
+     background-color: #000000;
      font: 12px "Lato", sans-serif;
 }
  #mails{
@@ -385,13 +385,13 @@ html:before{
      background-image: url(https://i.imgur.com/plxr8al.png) !important;
 }
  #auctions .ahitem, #ah_filter, #auctions .redback, #auctions TH, #auctions TD{
-     background-color: #10141C;
+     background-color: #000000;
      font: 12px "Lato", sans-serif;
-     color: #5B7019;
-     background: #10141C;
+     color: ##383838;
+     background: #000000;
 }
  #auctions .even TD{
-     background-color: #10141C;
+     background-color: #000000;
      font: 12px "Lato", sans-serif;
 }
  #auctions TD.unique{
@@ -408,12 +408,12 @@ html:before{
      background-image: url(https://i.imgur.com/zDf52y4.png);
 }
  #depo-sections .depoUpgrade{
-     background-color: #070;
+     background-color: #4d4d4d;
      height: 22px;
      width: 18px;
 }
  #depo-sections .d-movebar{
-     background-color: #5b7019;
+     background-color: #404040;
      border: 1px solid gold;
      color: gold;
 }
@@ -424,7 +424,7 @@ html:before{
      background-image: url(https://i.imgur.com/LhkDLj9.png);
 }
  #strength-increase, #dexternity-increase, #intelect-increase{
-     color: #5b7019;
+     color: #525252;
      font: 14px "Lato", sans-serif;
 }
  #abpoints{
@@ -435,7 +435,7 @@ html:before{
      background-image: url(https://i.imgur.com/ztABJh6.png);
 }
  #matchmaking-summary .header-text{
-     color: #5b7019;
+     color: #424242;
      left: 10px;
      top: 10px;
 }
@@ -447,13 +447,13 @@ html:before{
      background-position-y: -101px;
 }
  .MM-tab-button.MM-tab-button-menu.active .content .gfont {
-     text-shadow: 0px 1px 7px #2b632f;
+     text-shadow: 0px 1px 7px #5e5e5e;
 }
  .MM-fight-header {
      width: 48px;
 }
  .MM-paginator .inptxt {
-     background: #10141C;
+     background: #000000;
      color: #434343;
      border: none;
 }
@@ -467,22 +467,22 @@ html:before{
      width: 50px;
 }
  .MM-table-col {
-     border: 1px solid #353e32;
+     border: 1px solid #2e2e2e;
 }
  .MM-table-container{
-     color: #799424 
+     color: #878787 
 }
  .MM-dialog .gfont{
-     color: #759217;
+     color: #6b6b6b;
 }
  .MM-dialog .gfont:before{
-     color: #83a711;
+     color: #8a8a8a;
 }
  .MM-dialog .gfont:after{
-     color: #799a11;
+     color: #7d7d7d;
 }
  .progress-wnd .left-side .char-info{
-     color: #5b7019;
+     color: #3c3d3a;
 }
  .progress-wnd .left-side .char-prof{
      color: gold;
@@ -513,7 +513,7 @@ html:before{
 }
  .party_member, #party B{
      font: 12px "Lato", sans-serif;
-     color: #80983a;
+     color: #878787;
 }
  #party>p>div:last-of-type{
      color: white !important;
@@ -544,7 +544,7 @@ html:before{
 }
  .extraStat-group-title{
      font: 14px "Lato", sans-serif;
-     color:#c5a470;
+     color:#bdbdbd;
      border-bottom: 1px solid #927f7f;
 }
  .extraStat-group{
@@ -581,7 +581,7 @@ html:before{
 }
  #rightStats{
      font: 10px Arial, Verdana;
-     color: #ffd700;
+     color: #cfcfcf;
      text-align: right;
      position: absolute;
      top: 126px;
@@ -606,7 +606,7 @@ html:before{
      width:180px;
      height:512px;
      background: #000000e0;
-     background: linear-gradient(to right, #000000e0, #454545);
+     background: linear-gradient(to right, #000000e0, #292929);
      transition: transform 700ms ease-in-out;
      box-shadow: -3px 0px 5px 1px rgba(0, 0, 0, 0.6);
 }
@@ -621,7 +621,7 @@ html:before{
      width: 30px;
      height: 11px;
      font: 11px Arial, Verdana;
-     color: #ffd700;
+     color: #c9c9c9;
      text-align: right;
 }
 .shairVersions div{
@@ -821,7 +821,7 @@ html:before{
      background-image: url(https://i.imgur.com/rgiGHpz.png) !important;
 }
  .w2{
-     color: #5B7019;
+     color: #404040;
      background-image: url(https://i.imgur.com/xh3c6US.png) !important;
 }
  #alert, #dlgwin, #staminashop, .MM-alert{
@@ -837,11 +837,11 @@ html:before{
      background-image: url(https://i.imgur.com/MazA1jl.png);
 }
  #cfg_options DIV{
-     color: #5B7019;
+     color: #595959;
      font: 13px "Lato", sans-serif;
 }
 .my-checkbox, .my-checkbox.active{
-     color: #5B7019;
+     color: #595959;
      font: 13px "Lato", sans-serif;
      background-image: url(https://i.imgur.com/z1YcahF.png);
 }
@@ -922,19 +922,19 @@ html:before{
 }
  #clanbox BUTTON{
      font: 10px "Lato", sans-serif;
-     color:#5B7019;
+     color:#525252;
 }
  #clanbox{
      font: 11px "Lato", sans-serif;
-     color:#5B7019;
+     color:#525252;
 }
  #clanbox span.nick{
      font: 13px "Lato", sans-serif;
-     color:#5B7019;
+     color:#525252;
 }
  .clan TD{
      font: 14px "Lato", sans-serif;
-     color:#5B7019;
+     color:#525252;
 }
  #botloc{
      top:519px;
@@ -950,17 +950,17 @@ html:before{
      font-family:"Lato",sans-serif;
 }
  .a2 {
-     color: #5B7019;
+     color: #525252;
      font: 14px "Lato", sans-serif;
 }
  #skillcount {
-     color: #5B7019;
+     color: #525252;
      font: 16px "Lato", sans-serif;
      top: 9px;
      left: 310px;
 }
  .skills_tab_text {
-     color: #5B7019;
+     color: #525252;
      font: 12px "Lato", sans-serif;
 }
  .skillbox_lvl{
@@ -968,7 +968,7 @@ html:before{
      font: 10px "Lato", sans-serif;
 }
  #clanbox .clanlist B{
-     color: #5B7019;
+     color: #ffd700;
      font: 14px "Lato", sans-serif;
      font-weight: 700;
 }
@@ -1000,19 +1000,19 @@ html:before{
 }
  textarea#battle_for_forum{
      background-color: #10141C;
-     color: #5B7019;
+     color: #525252;
      border-color: rgb(16, 20, 28);
 }
  #addonDetails{
      background-color: #13171F;
 }
  #addons h1{
-     color: #5B7019;
+     color: #525252;
      font: 20px "Lato", sans-serif;
      font-weight: 700;
 }
  #addons *, .search, #recipes .start-lvl, #recipes .stop-lvl{
-     color: #5B7019;
+     color: #525252;
      font: 14px "Lato", sans-serif;
 }
  #recipes .recipe-header{
