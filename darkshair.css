@@ -123,19 +123,19 @@
     background: url(https://i.imgur.com/Cp5fVuX.png) !important;
 }
 .SI-button .left{
-    background:url(https://i.imgur.com/2qstFPx.png);
+    background:url(https://i.imgur.com/2qstFPx.png) !important;
     background-position: -443px -229px;
 }
 .SI-button .label{
-    background:url(https://i.imgur.com/2qstFPx.png);
+    background:url(https://i.imgur.com/2qstFPx.png) !important;
     background-position: -463px -229px;
 }
 .SI-button .right{
-    background:url(https://i.imgur.com/2qstFPx.png);
+    background:url(https://i.imgur.com/2qstFPx.png) !important;
     background-position: -622px -229px;	
 }
 #for-you-plug{
-    background:url(https://i.imgur.com/2qstFPx.png) -0px -942px;
+    background:url(https://i.imgur.com/2qstFPx.png) -0px -942px !important;
 }
 .shair-item-slot small{
     opacity: 0.5;
@@ -458,7 +458,7 @@ html:before{
      border: none;
 }
  .txt-info, .your-season-record, .your-career-record, .players-in-ranking-info, .season-reward-header, .season-winners-header, .matchmaking-progress-stage .points-side .ratio , .tokens-amount-1{
-     color: white;
+     color: white !important;
 }
  .MM-rank-header {
      width: 62px;
@@ -491,7 +491,7 @@ html:before{
      background-image: url(https://i.imgur.com/IMdI8sY.png);
 }
  .MM-dialog-header-txt, .MM-big-button-header{
-     background-image: url(https://i.imgur.com/2qstFPx.png);
+     background-image: url(https://i.imgur.com/2qstFPx.png) !important;
 }
  .MM-dialog{
      -moz-border-image: url(https://i.imgur.com/zvT29ZO.png) 51 64 24 57 repeat;
@@ -537,10 +537,10 @@ html:before{
      background-image: url(https://i.imgur.com/DyA3522.png);
 }
  .MM-big-button.MM-stat-button, .MM-big-button.MM-fight-button, .MM-big-button.MM-rank-button, .MM-queue-button, .MM-big-button MM-eq-button, .MM-eq-button, .MM-eq-button.selected{
-     background-image: url(https://i.imgur.com/2qstFPx.png);
+     background-image: url(https://i.imgur.com/2qstFPx.png) !important;
 }
  #pre-premium-panel, #chests-window, #matchmaking-summary{
-     background-image: url(https://i.imgur.com/2qstFPx.png);
+     background-image: url(https://i.imgur.com/2qstFPx.png) !important;
 }
  .extraStat-group-title{
      font: 14px "Lato", sans-serif;
