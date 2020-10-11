@@ -458,7 +458,7 @@ html:before{
      border: none;
 }
  .txt-info, .your-season-record, .your-career-record, .players-in-ranking-info, .season-reward-header, .season-winners-header, .matchmaking-progress-stage .points-side .ratio , .tokens-amount-1{
-     color: white !important;
+     color: #8c8c8c !important;
 }
  .MM-rank-header {
      width: 62px;
@@ -482,7 +482,7 @@ html:before{
      color: #7d7d7d;
 }
  .progress-wnd .left-side .char-info{
-     color: #3c3d3a;
+     color: #3b3b3b;
 }
  .progress-wnd .left-side .char-prof{
      color: gold;
