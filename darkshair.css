@@ -387,7 +387,7 @@ html:before{
  #auctions .ahitem, #ah_filter, #auctions .redback, #auctions TH, #auctions TD{
      background-color: #000000;
      font: 12px "Lato", sans-serif;
-     color: ##383838;
+     color: #383838;
      background: #000000;
 }
  #auctions .even TD{
