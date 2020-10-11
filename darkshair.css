@@ -847,7 +847,7 @@ html:before{
 .my-checkbox, .my-checkbox.active{
      color: #595959;
      font: 13px "Lato", sans-serif;
-     background-image: url(https://i.imgur.com/z1YcahF.png);
+     background: url(https://i.imgur.com/z1YcahF.png);
 }
  #pre-premium-panel .close-pre-premium, #recipes .close-but, #chests-window .close-chests-window, #loot-preview .close-but{
      background-image: url(https://i.imgur.com/EOuQSXv.png);
